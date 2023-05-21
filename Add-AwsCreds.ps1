@@ -1,2 +1,2 @@
-export AWS_ACCESS_KEY_ID=(your access key id)
-export AWS_SECRET_ACCESS_KEY=(your secret access key)
+export AWS_ACCESS_KEY_ID=AKIASDELRRJMJQDGHU6Z
+export AWS_SECRET_ACCESS_KEY=GND0kahTz2ge8J+xtM+Z43yHgoK3ZJDjVuXm3B7e
