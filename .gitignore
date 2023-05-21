@@ -1,4 +1,4 @@
-*.ps1
+Add-AwsCreds.ps1
 
 # Local .terraform directories
 **/.terraform/*
